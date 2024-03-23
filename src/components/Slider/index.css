@@ -1,0 +1,137 @@
+.image-slider-container {
+    margin: 0 auto;
+    width: 60%;
+    padding: 20px;
+    border-radius: 15px;
+    margin-right: 10%;
+
+  }
+  
+  .image-slider-container .slick-prev:before,
+  .image-slider-container .slick-next:before {
+    color: black;
+
+  
+  }
+  .img{
+    height: 45vh;
+    width: 100%;
+    border-radius: 15px;
+  }
+  .card1{
+    height:45vh;
+    background-color: #ffffff;
+    border-color:gray ;
+    border-width: 1px;
+    border-style: solid;
+    overflow: hidden;
+    width: 20%;
+    margin: 20px;
+    margin-left: 10%;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+  .main-card{
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+  }
+  .card2{
+    height:45vh;
+    background-color: #ffffff;
+    border-color:gray ;
+    border-width: 1px;
+    border-style: solid;
+  
+    margin: 5px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+  .card-container{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-around;
+   
+   
+  }
+  .items{
+    font-size: 20px;
+    
+    color: gray;
+    display: flex;
+    flex-direction: column;
+   
+    justify-content: center;
+    
+  }
+  .container{
+    min-height: 200vh;
+    background-color: #f5f5f5;
+  }
+  
+  .four-card{
+    display: flex;
+    flex-direction: row;
+    height: 10vh;
+    
+  }
+  .four-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+   
+  }
+  .padding-four{
+    margin: 10px;
+    padding: 8px;
+  }
+  .four-img{
+    height: 90px;
+  }
+  .four-span{
+    font-weight: bold;
+    font-size: 12px;
+  }
+  .small-card{
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .small-img{
+    height:180px;
+  }
+  .small-span{
+    font-weight: bold;
+    
+    
+  }
+  .small-card-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .head{
+    margin-left: 3%;
+   
+    font-size: 30px;
+    
+  }
+.four-card-heading{
+  font-size: 20px;
+}
+  

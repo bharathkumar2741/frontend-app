@@ -1,0 +1,140 @@
+.nav-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #121212;
+   
+    /* height: 20vh; */
+  }
+  .nav-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 80px;
+    /* background-color: aqua; */
+    
+  }
+  
+  .nav-bar-large-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    /* background-color: white; */
+  }
+  
+
+  .website-logo {
+    width: 150px;
+    height: 80px;
+    
+  }
+  .nav-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-self: flex-end;
+    list-style-type: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /* background-color: aqua; */
+  } 
+  .nav-menu-item {
+    font-family: 'Roboto';
+    text-decoration: none;
+    margin: 10px;
+    font-weight: 400;
+    font-size: 25px;
+    color:#ffffff;
+  }
+  
+  .nav-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+  }
+  .large-device-button-container {
+    display: flex;
+    justify-content: flex-end;
+    /* background-color: white; */
+    margin-top: 10px;
+  }
+  .logout-desktop-btn {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #4f46e5;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    outline: none;
+    padding: 12px 42px;
+  }
+ .update_heading{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+ }
+ .delivering_para{
+    color: #ffffffee;
+    font-size: 10px;
+ }
+ .india{
+    width: 38px;
+    padding: 3px;
+ }
+ .India-icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+ }
+ .location-icon{
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ }
+ .l-icon{
+    font-size: 40px;
+ }
+ .l-icon1{
+    font-size: 70px;
+ }
+ .input{
+    width: 80vh;
+    height: 45px;
+    border: 0;
+    padding: 3px;
+    font-size: 30px;
+    border-radius: 4px;
+ }
+ .input1{
+    background-color:#FFBC40;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    width: 70vh;
+    border: 0;
+    border-radius: 5px;
+    border-width: 20px;
+    border-color:#FFA500 ;
+    font-size: 60px;
+    padding: 5px;
+ }
+ .all-categories{
+    height: 45px;
+    border: 0;
+    margin-right: 5px;
+    font-size: 20px;
+ border-radius: 5px;
+ }
