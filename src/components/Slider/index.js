@@ -48,27 +48,27 @@ function Sliding() {
                             <h1 className='four-card-heading'>Up to 70% | Get festive ready</h1>
                             <div className='four-card'>
                                 <div>
-                                    <div className="padding-four">
-                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/>
+                                    <div className="padding-four hover">
+                                        <a className='img-hyper' href=" "><img className='four-img ' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-1-186-116._SY116_CB636110853_.jpg"/></a>
                                         <br/>
-                                        <span className='four-span'>Clothing</span>
+                                        <a className='img-hyper' href=" "><span className='four-span'>Clothing</span></a>
                                     </div>
-                                    <div className="padding-four">
-                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/>
+                                    <div className="padding-four hover">
+                                    <a href=" "><img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-2-186-116._SY116_CB636110853_.jpg"/></a>
                                         <br/>
-                                        <span className='four-span'>Foot Wear</span>
+                                        <a className='img-hyper' href=" "><span className='four-span'>Foot Wear</span></a>
                                     </div>
                                 </div>
                                 <div>
-                                    <div className="padding-four">
-                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-3-186-116._SY116_CB636110853_.jpg"/>
+                                    <div className="padding-four hover">
+                                    <a href=" "><img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-3-186-116._SY116_CB636110853_.jpg"/></a>
                                         <br/>
-                                        <span className='four-span'>Watches</span>
+                                        <a className='img-hyper' href=" "><span className='four-span'>Watches</span></a>
                                     </div>
-                                    <div className="padding-four">
-                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-4-186-116._SY116_CB636110853_.jpg"/>
+                                    <div className="padding-four hover">
+                                    <a href=" "><img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/Gateway/BAU/BTF-Refresh/May/PF_MF/MF-4-186-116._SY116_CB636110853_.jpg"/></a>
                                         <br/>
-                                        <span className='four-span'>Clothing</span>
+                                        <a className='img-hyper' href=" "><span className='four-span'>Clothing</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -84,27 +84,27 @@ function Sliding() {
                             <h1 className='four-card-heading'>Appliances for your home | Up to 55%</h1>
                             <div className='four-card'>
                                 <div>
-                                    <div className="padding-four">
-                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/186x116---wm._SY116_CB667322346_.jpg"/>
+                                    <div className="padding-four hover">
+                                    <a href=" "><img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/186x116---wm._SY116_CB667322346_.jpg"/></a>
                                         <br/>
-                                        <span className='four-span'>Washing Machine</span>
+                                        <a className='img-hyper' href=" "><span className='four-span'>Washing Machine</span></a>
                                     </div>
-                                    <div className="padding-four">
-                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346_.jpg"/>
+                                    <div className="padding-four hover">
+                                    <a href=" "><img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346_.jpg"/></a>
                                         <br/>
-                                        <span className='four-span'>Microwaves</span>
+                                        <a className='img-hyper' href=" "> <span className='four-span'>Microwaves</span></a>
                                     </div>
                                 </div>
                                 <div>
-                                    <div className="padding-four">
-                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346_.jpg"/>
+                                    <div className="padding-four hover">
+                                    <a className='img-hyper' href=" "><img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346_.jpg"/></a>
                                         <br/>
-                                        <span className='four-span'>Refigirators</span>
+                                        <a className='img-hyper' href=" "><span className='four-span'>Refigirators</span></a>
                                     </div>
-                                    <div className="padding-four">
-                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08RDL6H79._SY116_CB667322346_.jpg"/>
+                                    <div className="padding-four hover">
+                                    <a className='img-hyper' href=" "> <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08RDL6H79._SY116_CB667322346_.jpg"/></a>
                                         <br/>
-                                        <span className='four-span'>Air Conditioners</span>
+                                        <a className='img-hyper' href=" "> <span className='four-span'>Air Conditioners</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -120,24 +120,24 @@ function Sliding() {
                             <h1 className='four-card-heading'>Revamp your home in style</h1>
                             <div className='four-card'>
                                 <div>
-                                    <div className="padding-four">
+                                    <div className="padding-four hover">
                                         <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_furnishings_2._SY116_CB584596691_.jpg"/>
                                         <br/>
                                         <span className='four-span'>cushion covers</span>
                                     </div>
-                                    <div className="padding-four">
+                                    <div className="padding-four hover">
                                         <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_decor_1._SY116_CB584596691_.jpg"/>
                                         <br/>
                                         <span className='four-span'>fugurines covers</span>
                                     </div>
                                 </div>
                                 <div>
-                                    <div className="padding-four">
+                                    <div className="padding-four hover">
                                         <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_storage_1._SY116_CB584596691_.jpg"/>
                                         <br/>
                                         <span className='four-span'>Home Storages</span>
                                     </div>
-                                    <div className="padding-four">
+                                    <div className="padding-four hover">
                                         <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/186x116_Home_lighting_2._SY116_CB584596691_.jpg"/>
                                         <br/>
                                         <span className='four-span'>Lighting Solutions</span>
@@ -156,27 +156,27 @@ function Sliding() {
                             <h1 className='four-card-heading'>Up to 70% | Get festive ready</h1>
                             <div className='four-card'>
                                 <div>
-                                    <div className="padding-four">
-                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/MSO/CE/Unrec1/Boat_Desktop_Qc_1x._SY116_CB577919562_.jpg"/>
+                                    <div className="padding-four hover">
+                                    <a className='img-hyper' href=" "><img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/MSO/CE/Unrec1/Boat_Desktop_Qc_1x._SY116_CB577919562_.jpg"/></a>
                                         <br/>
-                                        <span className='four-span'>Boat</span>
+                                        <a className='img-hyper' href=" "><span className='four-span'>Boat</span></a>
                                     </div>
-                                    <div className="padding-four">
-                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/MSO/CE/Unrec1/Boult_Desktop_Qc_1x._SY116_CB577919562_.jpg"/>
+                                    <div className="padding-four hover">
+                                    <a className='img-hyper' href=" "><img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/MSO/CE/Unrec1/Boult_Desktop_Qc_1x._SY116_CB577919562_.jpg"/></a>
                                         <br/>
-                                        <span className='four-span'>Boult</span>
+                                        <a className='img-hyper' href=" "> <span className='four-span'>Boult</span></a>
                                     </div>
                                 </div>
                                 <div>
-                                    <div className="padding-four">
-                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/MSO/CE/Unrec1/Noise_Desktop_Qc_1x._SY116_CB577919562_.jpg"/>
+                                    <div className="padding-four hover">
+                                    <a className='img-hyper' href=" "> <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/MSO/CE/Unrec1/Noise_Desktop_Qc_1x._SY116_CB577919562_.jpg"/></a>
                                         <br/>
-                                        <span className='four-span'>Noise</span>
+                                        <a className='img-hyper' href=" ">  <span className='four-span'>Noise</span></a>
                                     </div>
-                                    <div className="padding-four">
-                                        <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/MSO/CE/Unrec1/Zebronics_Desktop_Qc_1x._SY116_CB577919562_.jpg"/>
+                                    <div className="padding-four hover">
+                                    <a className='img-hyper' href=" "> <img className='four-img' alt="" src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/MSO/CE/Unrec1/Zebronics_Desktop_Qc_1x._SY116_CB577919562_.jpg"/> </a>
                                         <br/>
-                                        <span className='four-span'>Zebranics</span>
+                                        <a className='img-hyper' href=" "> <span className='four-span'>Zebranics</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -188,73 +188,73 @@ function Sliding() {
             </div>
             <span className='head'>Categories</span>
                 <div className='small-card-container'>
-                    <div className='small-card'>
-                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/12350706fd50c2bd41871dc5f3609189.jpg"/>
-                        <span className='small-span'>Diapers</span>
+                    <div className='small-card hover'>
+                    <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/12350706fd50c2bd41871dc5f3609189.jpg"/></a>
+                    <a className='img-hyper' href=" "> <span className='small-span'>Diapers</span></a>
                     </div>
-                    <div className='small-card'>
-                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/120c0e065e6f4a0243e1bbd09ad3f090.jpg"/>
-                        <span className='small-span'>Arm Bags</span>
+                    <div className='small-card hover'>
+                    <a className='img-hyper' href=" ">  <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/120c0e065e6f4a0243e1bbd09ad3f090.jpg"/></a>
+                    <a className='img-hyper' href=" "> <span className='small-span'>Arm Bags</span></a>
                     </div>
-                    <div className='small-card'>
-                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/7601e60aec8b8358fe2b32138a07939b.jpg"/>
-                        <span className='small-span'>Wireless EarBuds</span>
+                    <div className='small-card hover'>
+                    <a className='img-hyper' href=" ">  <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/7601e60aec8b8358fe2b32138a07939b.jpg"/></a>
+                    <a className='img-hyper' href=" "> <span className='small-span'>Wireless EarBuds</span></a>
                     </div>
-                    <div className='small-card'>
-                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/23923743c4006e6d43a93d910dd12fb1.jpg"/>
-                        <span className='small-span'>Door Stops</span>
+                    <div className='small-card hover'>
+                    <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/23923743c4006e6d43a93d910dd12fb1.jpg"/></a>
+                    <a className='img-hyper' href=" ">  <span className='small-span'>Door Stops</span></a>
                     </div>
-                    <div className='small-card'>
-                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/cd9f86f2960315b62efe4ab5788cf93b.jpg"/>
-                        <span className='small-span'>Base Layers</span>
+                    <div className='small-card hover'>
+                    <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/cd9f86f2960315b62efe4ab5788cf93b.jpg"/></a>
+                    <a className='img-hyper' href=" "> <span className='small-span'>Base Layers</span></a>
                     </div>
-                    <div className='small-card'>
-                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/7a8a5ebec899a029acf0e387bcc2ff96.jpg"/>
-                        <span className='small-span'>Body Brush</span>
+                    <div className='small-card hover'>
+                    <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/7a8a5ebec899a029acf0e387bcc2ff96.jpg"/></a>
+                    <a className='img-hyper' href=" "> <span className='small-span'>Body Brush</span></a>
                     </div>
-                    <div className='small-card'>
-                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/8651b83461168e67b33265b93464a271.jpg"/>
-                        <span className='small-span'>Key Chains</span>
+                    <div className='small-card hover'>
+                    <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/8651b83461168e67b33265b93464a271.jpg"/></a>
+                    <a className='img-hyper' href=" "> <span className='small-span'>Key Chains</span></a>
                     </div>
-                    <div className='small-card'>
-                        <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/057a53a9d19447b881713346f8e590f2.jpg"/>
-                        <span className='small-span'>Fasical cleaners</span>
+                    <div className='small-card hover'>
+                    <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/057a53a9d19447b881713346f8e590f2.jpg"/></a>
+                    <a className='img-hyper' href=" "> <span className='small-span'>Fasical cleaners</span></a>
                     </div>
                    
                 </div>
             <div className='small-card-container'>
            
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/c2c0395a4ba7a8fea7ca9622001fccf9.jpg"/>
-                    <span className='small-span'>fans and bags</span>
+                <div className='small-card hover'>
+                <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/c2c0395a4ba7a8fea7ca9622001fccf9.jpg"/></a>
+                <a className='img-hyper' href=" "> <span className='small-span'>fans and bags</span></a>
                 </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/original/fa37bfbf30cf43261211b9640b4f8abb.jpg"/>
-                    <span className='small-span'>Shirts</span>
+                <div className='small-card hover'>
+                <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/original/fa37bfbf30cf43261211b9640b4f8abb.jpg"/></a>
+                <a className='img-hyper' href=" "> <span className='small-span'>Shirts</span></a>
                 </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/1f66cccf66e4e5c10ec2f918d56ab701.jpg"/>
-                    <span className='small-span'>Braas</span>
+                <div className='small-card hover'>
+                <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/1f66cccf66e4e5c10ec2f918d56ab701.jpg"/></a>
+                <a className='img-hyper' href=" "> <span className='small-span'>Braas</span></a>
                 </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/4b685ec290a5d534a393f36f32c0e925.jpg"/>
-                    <span className='small-span'>Seeds</span>
+                <div className='small-card hover'>
+                <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/4b685ec290a5d534a393f36f32c0e925.jpg"/></a>
+                <a className='img-hyper' href=" "> <span className='small-span'>Seeds</span></a>
                 </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/a34ccc85c00c43f3ccf3f4505453418d.jpg"/>
-                    <span className='small-span'>Clothes</span>
+                <div className='small-card hover'>
+                <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/a34ccc85c00c43f3ccf3f4505453418d.jpg"/></a>
+                <a className='img-hyper' href=" "> <span className='small-span'>Clothes</span></a>
                 </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/790684bd9c3c3ab63f2152de8fbc0966.jpg"/>
-                    <span className='small-span'>Pads</span>
+                <div className='small-card hover'>
+                <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/790684bd9c3c3ab63f2152de8fbc0966.jpg"/></a>
+                <a className='img-hyper' href=" "> <span className='small-span'>Pads</span></a>
                 </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://np-live-21.slatic.net/kf/Sfd61f28799b0456d8b3648e360df37709.jpg"/>
-                    <span className='small-span'>Sugar</span>
+                <div className='small-card hover'>
+                <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://np-live-21.slatic.net/kf/Sfd61f28799b0456d8b3648e360df37709.jpg"/></a>
+                <a className='img-hyper' href=" "> <span className='small-span'>Sugar</span></a>
                 </div>
-                <div className='small-card'>
-                    <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/c2c0395a4ba7a8fea7ca9622001fccf9.jpg"/>
-                    <span className='small-span'>Wireless EarBuds</span>
+                <div className='small-card hover'>
+                <a className='img-hyper' href=" "> <img className='small-img' alt="" src="https://static-01.daraz.com.np/p/c2c0395a4ba7a8fea7ca9622001fccf9.jpg"/></a>
+                <a className='img-hyper' href=" "> <span className='small-span'>Wireless EarBuds</span></a>
                 </div>
                 
             </div>

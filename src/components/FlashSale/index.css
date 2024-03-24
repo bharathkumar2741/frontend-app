@@ -66,6 +66,10 @@ font-weight: 500;
     width: 200px;
     flex-wrap: wrap;
     margin: 1px;
+    transition: all 0.2s;
+  }
+  .hover:hover{
+    transform: scale(1.05);
   }
   .rupess-para{
 color: #ff6801;
@@ -80,7 +84,7 @@ font-size: 20px;
     width: 200px;
     flex-wrap: wrap;
     margin: 5px;
-    
+    transition: all 0.2s;
     height: 50vh;
     padding: 2px;
   }
@@ -160,4 +164,8 @@ text-decoration: none;
 .img3{
   height: 50px;
   padding-top: 10px;
+}
+.img-hyper1{
+  color: #000000;
+  text-decoration: none;
 }

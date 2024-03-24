@@ -11,11 +11,12 @@ const Header = props => {
           
 
           <div className="nav-bar-large-container">
-            <a className='color' href=' '><img
+            <a className='color' href=' '>
+              <img
                 className="website-logo"
                 src="https://i.pinimg.com/564x/b9/16/6c/b9166c8cc7cf1d91fb98d79ab496108a.jpg"
-                alt="website logo"
-              /></a>
+                alt="website logo"/>
+            </a>
             
             
             <div className='location-icon'>
@@ -23,7 +24,7 @@ const Header = props => {
                 <a className='color' href=' '><IoLocationOutline className='l-icon' /></a>
                 <a className='color' href=' '>
 
-<p className='delivering_para'>Delivering to Guntur 533349 <br/><span className='update_heading'>Update Location</span></p>
+                <p className='delivering_para'>Delivering to Guntur 533349 <br/><span className='update_heading'>Update Location</span></p>
                 </a>
                     
                 
