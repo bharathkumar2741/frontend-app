@@ -41,8 +41,6 @@ function Sliding() {
             </div>
             <div className='main-card'>
                 <div className='cards'>
-                    
-                    
                     <div className='card2'>
                         <div className='four-container'>
                             <h1 className='four-card-heading'>Up to 70% | Get festive ready</h1>

@@ -1,11 +1,13 @@
 import { IoLocationOutline } from "react-icons/io5";
 import { LiaCartPlusSolid } from "react-icons/lia";
 import { IoSearch } from "react-icons/io5";
+
 import './index.css'
 
 const Header = props => {
   return (
     <>
+    <div>
       <nav className="nav-header">
         <div className="nav-content">
           
@@ -17,7 +19,7 @@ const Header = props => {
                 src="https://i.pinimg.com/564x/b9/16/6c/b9166c8cc7cf1d91fb98d79ab496108a.jpg"
                 alt="website logo"/>
             </a>
-            
+            <h1 className="amazon-head">Amazon.in</h1>
             
             <div className='location-icon'>
                 
@@ -39,9 +41,9 @@ const Header = props => {
                     <option>item 4</option>
                     <option>item 5</option>
                 </select>
-                <input className='input' type='search' />
+                <input className='input' type='search' placeholder="Search..." />
                 <br/>
-                <IoSearch />
+               <IoSearch />
 
             </div>
             <div className='India-icon'>
@@ -56,16 +58,14 @@ const Header = props => {
             <div>
                 <a href=" " className="color"><p className='delivering_para'>Hello, sign in <br/><span className='update_heading'>Accounts & Lists</span></p></a>    
             </div>
-            <div>
-            <a href=" " className="color"><p className='delivering_para'>Returns <br/><span className='update_heading'>& Orders</span></p></a>
-                
-                 
+            <div className="mb-responsive">
+                <a href=" " className="color"><p className='delivering_para'>Returns <br/><span className='update_heading'>& Orders</span></p></a> 
             </div>
-            <div className='location-icon'>
+            <div className='location-icon1'>
                 
                     <a className="color" href=" "><LiaCartPlusSolid className='l-icon1' /></a>
 
-                <a href=" " className="color"><span className='update_heading'>Cart</span></a>
+                   <a href=" " className="color"><span className='update_heading'>Cart</span></a>
                 
                  
             </div>
@@ -73,6 +73,15 @@ const Header = props => {
           </div>
         </div>
       </nav>
+      <div className='input3'>
+                
+                <input className='input' type='search' placeholder="Search..." />
+                <br/>
+               <IoSearch className="search-icon-mb" />
+
+            </div>
+            <div className='India-icon'></div>
+      </div>
     </>
   )
 }

@@ -1,39 +1,16 @@
 
-.flash-bg{
-    background-color: #f5f5f5;
-    height: 220vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
-    
-}
-.flash-bg-container{
-    background-color: #ffffff;
-    width: 96%;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    margin-bottom: 2px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0);
-}
+
 .flash-bg-container2{
     background-color: #ffffff;
     width: 96%;
-    height: 48vh;
+    min-height: 48vh;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0);
     flex-wrap: wrap;
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
-.sale-para{
-    color:#ff6801;
-    margin-left: 7%;
-    margin-right: 7%;
-    font-size: 20px;
-    font-weight: 500px;
-}
+
 .time-bg{
 background-color: #ff6801;
 height: 30px;
@@ -50,24 +27,12 @@ align-items: center;
 margin-right: 5px;
 font-weight: 500;
 }
-.shop-btn {
-    background-color: white;
-    color: #ff6801;
-    border: 2px solid #ff6801; /* Green */
-    height: 40px;
-    margin-left: 50%;
-    font-weight: 500;
-  }
+
   .img-flash{
     height: 200px;
     width: 200px;
   }
-  .flash-card{
-    width: 200px;
-    flex-wrap: wrap;
-    margin: 1px;
-    transition: all 0.2s;
-  }
+  
   .hover:hover{
     transform: scale(1.05);
   }
@@ -97,6 +62,12 @@ font-size: 20px;
     font-weight: 500;
     margin-left: 30px;
   }
+  .flash-main-head2{
+    align-self: flex-start;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 30px;
+  }
   .just-for-u-bg{
     display: flex;
     justify-content: flex-start;
@@ -106,21 +77,7 @@ font-size: 20px;
     margin-left:15px ;
   }
 
-.bg-footer{
-  background-color: #212529;
-  height: 50vh;
-  width: 100%;
-  margin-top: 10px;
- color: #f5f5f5;
- display: flex;
- justify-content: space-between;
-padding-left: 15%;
-padding-right: 15%;
-box-sizing: border-box;
-padding-top: 40px;
 
-
-}
 .bg-footer2{
   background-color: #1b1b28;
   height: 8vh;
@@ -168,4 +125,145 @@ text-decoration: none;
 .img-hyper1{
   color: #000000;
   text-decoration: none;
+}
+.bg-footer{
+  background-color: #212529;
+  height: 50vh;
+  width: 100%;
+  margin-top: 10px;
+ color: #f5f5f5;
+ display: flex;
+ justify-content: center;
+padding-left: 15%;
+padding-right: 15%;
+box-sizing: border-box;
+padding-top: 40px;
+align-items: center;
+
+}
+
+@media screen and (max-width:320px) {
+  .end-para{
+    display: none;
+  }
+  .time-bg{
+    display: none;
+  }
+  .colon{
+    display: none;
+  }
+  .flash-bg-container{
+    display: flex;
+    flex-direction: row;
+  }
+  .sale-para{
+    color:#ff6801;
+  
+    font-size: 12px;
+    font-weight: 600;
+    
+}
+.flash-bg-container2{
+  display: none;
+}
+.flash-bg-container{
+  display: none;
+}
+.flash-main-head{
+  display: none;
+}
+.bg-footer{
+  background-color: #212529;
+  min-height: 100vh;
+  width: 100%;
+  margin-top: 10px;
+ color: #f5f5f5;
+ display: flex;
+ justify-content: flex-start;
+padding-left: 15%;
+padding-right: 15%;
+box-sizing: border-box;
+padding-top: 40px;
+align-items: center;
+
+}
+.flash-bg{
+  background-color: #f5f5f5;
+  min-height: 220vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  
+}
+.just-for-u-bg{
+  align-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 20px;
+}
+.flash-main-head2{
+  align-self: center;
+}
+.bg-footer{
+  flex-direction: column;
+}
+}
+@media screen and (min-width:321px) {
+  .sale-para{
+    color:#ff6801;
+    margin-left: 7%;
+    margin-right: 7%;
+    font-size: 20px;
+    font-weight: 500px;
+}
+.bg-footer{
+  background-color: #212529;
+  height: 50vh;
+  width: 100%;
+  margin-top: 10px;
+ color: #f5f5f5;
+ display: flex;
+ justify-content: space-between;
+padding-left: 15%;
+padding-right: 15%;
+box-sizing: border-box;
+padding-top: 40px;
+
+
+}
+.flash-bg-container{
+  background-color: #ffffff;
+  width: 96%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 2px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0);
+}
+.shop-btn {
+  background-color: white;
+  color: #ff6801;
+  border: 2px solid #ff6801; /* Green */
+  height: 40px;
+  margin-left: 50%;
+  font-weight: 500;
+}
+.flash-card{
+  width: 200px;
+  flex-wrap: wrap;
+  margin: 1px;
+  transition: all 0.2s;
+}
+.flash-bg{
+  background-color: #f5f5f5;
+  min-height: 220vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  
+}
 }

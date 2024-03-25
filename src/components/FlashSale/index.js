@@ -10,8 +10,8 @@ const FlashSale=()=>{
                     <div className="flash-bg-container">
                             <p className="sale-para">On Sale now</p>
                             <p className="end-para">Ending in </p>
-                            <p className="time-bg">00</p> <span>:</span>
-                            <p className="time-bg">00</p> <span>:</span>
+                            <p className="time-bg">00</p> <span className="colon">:</span>
+                            <p className="time-bg">00</p> <span className="colon">:</span>
                             <p className="time-bg">00</p>
                             <button className="shop-btn">SHOP NOW</button>
                     </div>
@@ -60,7 +60,7 @@ const FlashSale=()=>{
                                 <span className="offer-cut">Rs.4999</span><span className="offer">-15%</span>
                             </div></a>
                     </div><br/>
-                    <span className="flash-main-head">Just For U</span>
+                    <span className="flash-main-head2">Just For U</span>
                     <div className="just-for-u-bg">
                     
 

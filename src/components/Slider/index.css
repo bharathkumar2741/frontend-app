@@ -1,3 +1,6 @@
+*{
+  margin: 0;
+}
 .image-slider-container {
     margin: 0 auto;
     width: 60%;
@@ -38,7 +41,8 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-   
+   box-sizing: border-box;
+   flex-wrap: wrap;
   }
   .card2{
     height:45vh;
@@ -74,20 +78,22 @@
   .container{
     min-height: 165vh;
     background-color: #f5f5f5;
+    width: 100%;
+    box-sizing: border-box;
   }
   
   .four-card{
     display: flex;
     flex-direction: row;
     height: 10vh;
-    
+    width: 100%;
   }
   .four-container{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    
+    width: 100%;
    
   }
   .padding-four{
@@ -129,6 +135,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
   }
   .head{
     margin-left: 3%;
@@ -146,4 +153,63 @@
   .img-hyper{
     color: #000000;
     text-decoration: none;
+  }
+  @media screen and (max-width:320px) {
+    .card-container{
+      display: none;
+
+    }
+    .card2{
+      height:47vh;
+      background-color: #ffffff;
+      border-color:gray ;
+      border-width: 1px;
+      border-style: solid;
+      
+      padding-bottom: 10px;
+      border-radius: 5px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      width: 100%;
+      box-sizing: border-box;
+      margin-right: 20px;
+    }
+    .four-container{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      box-sizing: border-box;
+    }
+    .main-card{
+      width: 100%;
+      margin-top: 10px;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+     box-sizing: border-box;
+     flex-wrap: wrap;
+     align-items: center;
+     margin-left:25px;
+     margin-right: 50px;
+    }
+    .four-img {
+      height:75px;
+    }
+    .cards{
+      box-sizing: border-box;
+     width: 98%;
+     margin-right: 60px;
+    }
+    .container{
+      min-height: 140vh;
+      background-color: #f5f5f5;
+      width: 100%;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+    }
+.small-img{
+  height:150px;
+}
   }
